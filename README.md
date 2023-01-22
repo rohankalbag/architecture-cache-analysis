@@ -1,4 +1,4 @@
-# Benchmarking - Architecture and Cache Analysis
+# Architecture Cache Benchmarking and Analysis
 
 ## Course Assignment - CS 683 - Advanced Computer Architecture
 
